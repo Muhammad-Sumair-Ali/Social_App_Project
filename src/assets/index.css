@@ -1,0 +1,13 @@
+.active-link {
+  color: red !important; /* Change this to your desired color */
+}
+.page-content-wrapper{
+  border-left: 0.01rem solid #c4c0c0;
+}
+.h-100vh{
+  height:100vh;
+}
+.usericon{
+  
+  width: 3rem;
+}
